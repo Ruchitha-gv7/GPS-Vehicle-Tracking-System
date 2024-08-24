@@ -5,7 +5,9 @@ The GPS Vehicle Tracking System is designed to monitor vehicle location, speed, 
 
 ## Hardware Components
 u-blox NeoM6 GPS Module: Provides GPS coordinates and heading information.
+
 Arduino Uno: The main microcontroller that processes GPS data and controls other components.
+
 ADXL355: Used for detecting vibrations related to engine start/stop and accidents.
 
 ## Software Components
