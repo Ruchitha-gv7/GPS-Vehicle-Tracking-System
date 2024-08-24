@@ -14,6 +14,7 @@ ADXL355: Used for detecting vibrations related to engine start/stop and accident
 Arduino IDE: Used for writing and uploading the code to the Arduino Uno.
 ### Libraries:
 TinyGPS++: For parsing GPS data.
+
 ArduinoJSON: For creating JSON packets to structure and send data.
 
 ## Installation and Setup
